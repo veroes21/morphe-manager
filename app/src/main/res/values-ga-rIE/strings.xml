@@ -198,7 +198,7 @@
     <string name="sources_management_prerelease_toggle_description">Faigheann sé rochtain luath ar leaganacha nua paiste turgnamhacha</string>
     <string name="sources_prerelease_warning_title">Paistí réamh-eisiúna a chumasú?</string>
     <string name="sources_prerelease_warning_message">Tá leaganacha réamh-eisiúna fós á bhforbairt. D’fhéadfadh paistí teip nó an aip a bhriseadh, agus d’fhéadfadh gnéithe athrú gan rabhadh.</string>
-    <string name="expert_mode_unstable_notice">Seachas patching roimh sc subtly nó patches turgnaimh, is féidir go mbeadh siad neamhbhuan</string>
+    <string name="expert_mode_unstable_notice">D’fhéadfadh paistí réamheisiúna nó turgnamhacha a bheith éagobhsaí</string>
     <string name="sources_management_experimental_versions_toggle">Leaganacha turgnamhacha aipeanna</string>
     <string name="sources_management_experimental_versions_toggle_description">Taispeánann agus paistíonn spriocanna aipeanna turgnamhacha</string>
     <!-- Actions of the panel for several selected sources at once -->

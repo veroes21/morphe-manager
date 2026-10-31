@@ -198,6 +198,7 @@
     <string name="sources_management_prerelease_toggle_description">नवीन प्रायोगिक सुधारणा सर्वांच्या आधी वापरा</string>
     <string name="sources_prerelease_warning_title">सर्व युनिव्हर्सल पॅच सक्षम करायचे का?</string>
     <string name="sources_prerelease_warning_message">डाउनलोड केलेले अपडेट यापुढे उपलब्ध नाही. ते पुन्हा डाउनलोड करा.</string>
+    <string name="expert_mode_unstable_notice">प्री-रिलीज किंवा प्रायोगिक पॅचेज अस्थिर असू शकतात</string>
     <string name="sources_management_experimental_versions_toggle">प्रायोगिक ॲप आवृत्त्या</string>
     <string name="sources_management_experimental_versions_toggle_description">प्रायोगिक अॅप लक्ष्ये दाखवते आणि पॅच करते</string>
     <!-- Actions of the panel for several selected sources at once -->
@@ -212,6 +213,7 @@
     <string name="sources_management_metadata_unavailable">मेटाडेटा उपलब्ध नाही</string>
     <string name="sources_management_metadata_unavailable_hint">दूरस्थ मेटाडेटा फाइल उपलब्ध नाही. स्थापित बंडलसह पॅचिंग अजूनही कार्य करते, परंतु या स्रोतासाठी स्वयंचलित अद्यतन अक्षम केले आहे</string>
     <string name="sources_management_metadata_unavailable_hint_missing">पॅच बंडल डाउनलोड करता आले नाही. स्रोत URL चुकीचा असू शकतो किंवा फाइल अस्तित्वात नाही</string>
+    <string name="sources_management_metadata_unavailable_hint_missing_editable">पॅच बंडल डाउनलोड होऊ शकले नाही. स्रोत URL चुकीची असू शकते किंवा फाईल अस्तित्वात नाही. ते बदलण्यासाठी टॅप करा</string>
     <string name="sources_management_outdated_manager_badge">Morphe अद्यतनित करा</string>
     <string name="sources_management_outdated_manager_hint">हा स्रोत पॅचर %1$s साठी तयार केला आहे, परंतु Morphe %2$s मध्ये पॅचर %3$s समाविष्ट आहे. ते वापरण्यासाठी Morphe अद्यतनित करा</string>
     <string name="sources_management_held_back_badge">क्रॅश झाले</string>
@@ -225,6 +227,7 @@
     <!-- Home Screen - Sources Dialogs -->
     <string name="sources_dialog_display_name">दिसणारे नाव</string>
     <string name="sources_dialog_rename">सुधारणांच्या मुळाचे नाव बदला</string>
+    <string name="sources_dialog_change_url">पॅच स्रोत कोठून डाउनलोड होतो ते बदला</string>
     <string name="sources_dialog_duplicate_name_error">या नावाचे सुधारणा मूळ आधीपासून उपलब्ध आहे</string>
     <string name="sources_dialog_missing_error">हे सुधारणा मूळ अपडेट करता आले नाही</string>
     <string name="sources_dialog_add_source">सुधारणा मूळ जोडा</string>
@@ -352,8 +355,10 @@
     <string name="expert_mode_enable_all_universal_pending">सार्वत्रिक पॅचेससाठी पुन्हा टॅप करा</string>
     <string name="expert_mode_universal_all_warning_title">सर्व सार्वत्रिक पॅच सक्षम करायचे?</string>
     <string name="expert_mode_universal_all_warning_message">सार्वत्रिक पॅच एकत्र तपासले गेले नाहीत. त्या सर्वांना एकाच वेळी सक्षम केल्याने संघर्ष, अयशस्वी पॅचिंग किंवा क्रॅश होऊ शकतात.</string>
+    <string name="expert_mode_recommended">सुचवलेले पॅचेस</string>
     <string name="expert_mode_reset_to_default_done">शिफारस केलेले पॅच लागू केले</string>
     <string name="expert_mode_selected_count">%2$s पैकी %1$s निवडले</string>
+    <string name="expert_mode_saved_selection">जतन केलेली निवड</string>
     <string name="expert_mode_restore_saved_done">निवड जतन केली पुनर्स्थापित</string>
     <string name="expert_mode_copy_from_bundle_no_patches">\u0928\u093e\u0932\u093e \u092a\u093e\u0939\u093e\u0928\u093e \u092c\u0941\u0928\u093e\u0932\u093e\u0928\u093e \u0905\u0928\u093e\u0925 \u092a\u093e\u0939\u093e\u0928\u093e \u0926\u0941\u0928\u0941\u0928\u093e</string>
     <string name="expert_mode_no_results">पॅच आढळले नाहीत</string>

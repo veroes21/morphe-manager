@@ -355,8 +355,10 @@ Tria d'on voler agafar l'APK"</string>
     <string name="expert_mode_enable_all_universal_pending">Toca de nou per als patxes universals</string>
     <string name="expert_mode_universal_all_warning_title">Habilitar tots els pegats universals?</string>
     <string name="expert_mode_universal_all_warning_message">Els pegats universals no estan provats conjuntament. Habilitar-los tots a la vegada pot causar conflictes, falls en el pegat o tancaments inesperats</string>
+    <string name="expert_mode_recommended">Patxes recomanades</string>
     <string name="expert_mode_reset_to_default_done">Pegats recomanats aplicats</string>
     <string name="expert_mode_selected_count">%1$s de %2$s seleccionats</string>
+    <string name="expert_mode_saved_selection">Selecció desada</string>
     <string name="expert_mode_restore_saved_done">Selecció guardada restaurada</string>
     <string name="expert_mode_copy_from_bundle_no_patches">No hi ha patchs corresponents en aquest paquet</string>
     <string name="expert_mode_no_results">No s\'han trobat mosaics</string>

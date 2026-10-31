@@ -198,6 +198,7 @@
     <string name="sources_management_prerelease_toggle_description">Шинэ туршилтын патчийн хувилбаруудыг эртээр авах</string>
     <string name="sources_prerelease_warning_title">Урьдчилсан хувилбарын патчуудыг идэвхжүүлэх үү?</string>
     <string name="sources_prerelease_warning_message">Урьдчилсан хувилбарын билдүүд хөгжүүлэлтийн шатандаа байна. Патлах үед алдаа гарч апп ажиллахгүй болох эсвэл функцууд урьдчилсан анхааруулгагүйгээр өөрчлөгдөж болно</string>
+    <string name="expert_mode_unstable_notice">Урьдчилсан хувилбар эсвэл туршилтын нөхцөльеүүд нь тогтворгүй байж болзошгүй</string>
     <string name="sources_management_experimental_versions_toggle">Аппликейшний туршилтын хувилбарууд</string>
     <string name="sources_management_experimental_versions_toggle_description">Туршилтын апп зорилтуудыг харуулах болон патчлах</string>
     <!-- Actions of the panel for several selected sources at once -->
@@ -212,6 +213,7 @@
     <string name="sources_management_metadata_unavailable">Мета өгөгдөл олдохгүй байна</string>
     <string name="sources_management_metadata_unavailable_hint">Алсын мета өгөгдлийн файл олдохгүй байна. Суурилуулсан багцаар патчлах боломжтой хэвээр байгаа ч энэ эх сурвалжийн автоматаар шинэчлэх функцийг идэвхгүй болголоо</string>
     <string name="sources_management_metadata_unavailable_hint_missing">Патчийн багцыг татаж авж чадсангүй. Эх сурвалжийн URL буруу эсвэл файл байхгүй байж болзошгүй</string>
+    <string name="sources_management_metadata_unavailable_hint_missing_editable">Нөхцөльеийн багцыг татаж авж чадсангүй. Эх сурвалж URL буруу байх эсвэл файл байхгүй байж болзошгүй. Өөрчлөхийн тулд товшино уу</string>
     <string name="sources_management_outdated_manager_badge">Morphe-ийг шинэчлэх</string>
     <string name="sources_management_outdated_manager_hint">Энэ эх сурвалж нь %1$s патчерт зориулагдсан боловч Morphe %2$s хувилбар нь %3$s патчерыг агуулж байна. Үүнийг ашиглахын тулд Morphe-ийг шинэчлээрэй</string>
     <string name="sources_management_held_back_badge">Гацсан</string>
@@ -225,6 +227,7 @@
     <!-- Home Screen - Sources Dialogs -->
     <string name="sources_dialog_display_name">Харуулах нэр</string>
     <string name="sources_dialog_rename">Патчийн эх сурвалжийг дахин нэрлэх</string>
+    <string name="sources_dialog_change_url">Нөхцөльеийн эх сурвалж татаж авах хаягийг өөрчлөх</string>
     <string name="sources_dialog_duplicate_name_error">Энэхүү нэртэй патчийн эх сурвалж аль хэдийн байна</string>
     <string name="sources_dialog_missing_error">Энэхүү патчийн эх сурвалжийг шинэчилж чадсангүй</string>
     <string name="sources_dialog_add_source">Патчийн эх сурвалж нэмэх</string>
@@ -352,8 +355,10 @@ APK-г хаанаас авахыг сонгоно уу"</string>
     <string name="expert_mode_enable_all_universal_pending">Универсал патчуудыг идэвхжүүлэхийн тулд дахин дарна уу</string>
     <string name="expert_mode_universal_all_warning_title">Бүх универсал патчуудыг идэвхжүүлэх үү?</string>
     <string name="expert_mode_universal_all_warning_message">Төвлөрсөн патчуудыг хамтдаа туршиж үзээгүй. Бүгдийг нь нэгэн зэрэг идэвхжүүлбэл зөрчил үүсэх, патчлах үйлдэл амжилтгүй болох эсвэл програм гацаж магадгүй</string>
+    <string name="expert_mode_recommended">Зөвлөмжтэй нөхцөльеүүд</string>
     <string name="expert_mode_reset_to_default_done">Зөвлөмжтэй патчуудыг хэрэглээд дууслаа</string>
     <string name="expert_mode_selected_count">%2$s-аас %1$s сонгогдсон</string>
+    <string name="expert_mode_saved_selection">Хадгалагдсан сонголт</string>
     <string name="expert_mode_restore_saved_done">Хадгалагдсан сонголтыг сэргээлээ</string>
     <string name="expert_mode_copy_from_bundle_no_patches">Энэ багцад тохирох патч байхгүй байна</string>
     <string name="expert_mode_no_results">Патч олдсонгүй</string>
@@ -475,6 +480,7 @@ APK-г хаанаас авахыг сонгоно уу"</string>
     <string name="batch_patch_planning">Дарааллыг бэлдэж байна…</string>
     <string name="batch_patch_preparing_next">Дараагийн апп-ыг бэлдэж байна…</string>
     <string name="batch_patch_progress_counter">%2$s-аас %1$s-ыг патчлаж байна</string>
+    <string name="batch_patch_summary">%1$s засагдсан, %2$s алдаа гарсан, %3$s алгассан</string>
     <string name="batch_patch_saved_hint">Зассан апп-уудыг хадгаллаа. Одоо суулгах эсвэл дараа нь тохиргооны зассан APK жагсаалтаас суулгана уу</string>
     <string name="batch_patch_multiple_sources">Зарим апп-ууд нэгээс олон эх сурвалжаас засваруудыг нэгтгэдэг бөгөөд энэ нь зөрчилдөөн үүсгэж болзошгүй</string>
     <string name="batch_patch_needs_apk">Боломжит APK байхгүй байна, файл хавсаргана уу</string>

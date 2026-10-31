@@ -355,8 +355,10 @@ Valige, kust selle APK võtta"</string>
     <string name="expert_mode_enable_all_universal_pending">Universaalsete paigutuste jaoks puudutage uuesti</string>
     <string name="expert_mode_universal_all_warning_title">Kas aktiveerida kõik universaalsed lapid?</string>
     <string name="expert_mode_universal_all_warning_message">Universaalseid lappe ei ole koos testitud. Kõigi nende korraga aktiveerimine võib põhjustada konflikte, lappimise ebaõnnestumist või rakenduse kokkujärgemist</string>
+    <string name="expert_mode_recommended">Soovitatud paigad</string>
     <string name="expert_mode_reset_to_default_done">Soovitatud paigad on rakendatud</string>
     <string name="expert_mode_selected_count">Valitud %1$s / %2$s</string>
+    <string name="expert_mode_saved_selection">Salvestatud valik</string>
     <string name="expert_mode_restore_saved_done">Salvestatud valik on taastatud</string>
     <string name="expert_mode_copy_from_bundle_no_patches">Selle paketist ei leidu sobivaid plaastreid</string>
     <string name="expert_mode_no_results">Plaastreid ei leitud</string>

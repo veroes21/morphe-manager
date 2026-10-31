@@ -355,6 +355,7 @@ APK-nı haradan götürəcəyinizi seçin"</string>
     <string name="expert_mode_enable_all_universal_pending">Ümumi yamaqlar üçün təkrar toxun</string>
     <string name="expert_mode_universal_all_warning_title">Bütün ümumi yamaqlar aktivləşdirilsin?</string>
     <string name="expert_mode_universal_all_warning_message">Ümumi yamaqlar birlikdə sınaqdan keçirilməyib. Hamısını eyni anda aktivləşdirmək ziddiyyətlərə, yamaqlamanın uğursuz olmasına və ya çökmələrə səbəb ola bilər</string>
+    <string name="expert_mode_recommended">Tövsiyə olunan yamaqlar</string>
     <string name="expert_mode_reset_to_default_done">Tövsiyə olunan yamaqlar tətbiq olundu</string>
     <string name="expert_mode_selected_count">%2$s - dan %1$s ədəd seçildi</string>
     <string name="expert_mode_saved_selection">Saxlanılan seçim</string>

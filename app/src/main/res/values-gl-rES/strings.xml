@@ -355,8 +355,10 @@ Escolle de onde collegar o seu APK"</string>
     <string name="expert_mode_enable_all_universal_pending">Toca de novo para os parches universais</string>
     <string name="expert_mode_universal_all_warning_title">Activar todos os parches universais?</string>
     <string name="expert_mode_universal_all_warning_message">Os parches universais non foron probados xuntos. Activalos todos a veza pode causar conflitos, fallos no parcheo ou erros do sistema</string>
+    <string name="expert_mode_recommended">Parches recomendados</string>
     <string name="expert_mode_reset_to_default_done">Aplicáronse os parches recomendados</string>
     <string name="expert_mode_selected_count">%1$s de %2$s seleccionado</string>
+    <string name="expert_mode_saved_selection">Selección gardada</string>
     <string name="expert_mode_restore_saved_done">Restaurouse a selección gardada </string>
     <string name="expert_mode_copy_from_bundle_no_patches">Non hai parches correspondentes neste paquete</string>
     <string name="expert_mode_no_results">Non se atoparon parches</string>

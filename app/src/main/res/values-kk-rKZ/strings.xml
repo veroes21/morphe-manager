@@ -198,6 +198,7 @@
     <string name="sources_management_prerelease_toggle_description">Жаңа эксперименттік патч нұсқаларына ерте қолжетімділік алады</string>
     <string name="sources_prerelease_warning_title">Алдын ала шығарылған патчтарды қосу керек пе?</string>
     <string name="sources_prerelease_warning_message">Алдын ала шығарылған нұсқалар әлі де әзірленуде. Патчтар сәтсіз болуы немесе қолданбаны бұзуы мүмкін, сондай-ақ функциялар ескертусіз өзгеруі мүмкін</string>
+    <string name="expert_mode_unstable_notice">Алдын ала шығарылған немесе эксперименттік патчтар тұрақсыз болуы мүмкін</string>
     <string name="sources_management_experimental_versions_toggle">Қосымшаның эксперименттік нұсқалары</string>
     <string name="sources_management_experimental_versions_toggle_description">Эксперименталды қолданба нысаналарын көрсетеді және патчтейді</string>
     <!-- Actions of the panel for several selected sources at once -->
@@ -212,6 +213,7 @@
     <string name="sources_management_metadata_unavailable">Метадеректер қолжетімсіз</string>
     <string name="sources_management_metadata_unavailable_hint">Қашықтағы метадеректер файлы қолжетімді емес. Орнатылған пакетпен патчтау әлі де жұмыс істейді, бірақ бұл дереккөз үшін автожаңарту өшірілген</string>
     <string name="sources_management_metadata_unavailable_hint_missing">Патч пакетін жүктеу мүмкін болмады. Дереккөз URL-мекенжайы қате болуы мүмкін немесе файл жоқ</string>
+    <string name="sources_management_metadata_unavailable_hint_missing_editable">Патчтар жиынтығын жүктеп алу мүмкін болмады. Дереккөзі URL-мекені қате болуы мүмкін немесе файл жоқ. Өзгерту үшін түктіңіз</string>
     <string name="sources_management_outdated_manager_badge">Morphe-ні жаңарту</string>
     <string name="sources_management_outdated_manager_hint">Бұл дереккөз %1$s патчері үшін жасалған, бірақ Morphe %2$s нұсқасына %3$s патчері кіреді. Оны қолдану үшін Morphe-ні жаңартыңыз</string>
     <string name="sources_management_held_back_badge">Қатемен жабылды</string>
@@ -225,6 +227,7 @@
     <!-- Home Screen - Sources Dialogs -->
     <string name="sources_dialog_display_name">Көрінетін атауы</string>
     <string name="sources_dialog_rename">Патч дереккөзін қайта атау</string>
+    <string name="sources_dialog_change_url">Патч дереккөзі жүктелетін жерді өзгерту</string>
     <string name="sources_dialog_duplicate_name_error">Бұл атаулы патч дереккөзі redan бар</string>
     <string name="sources_dialog_missing_error">Бұл патч дереккөзін жаңарту мүмкін болмады</string>
     <string name="sources_dialog_add_source">Патч дереккөзін қосу</string>
@@ -352,7 +355,10 @@
     <string name="expert_mode_enable_all_universal_pending">Универсал патчтар үшін қайта түктіңіз</string>
     <string name="expert_mode_universal_all_warning_title">Барлық әмбебап патчтарды қосу керек пе?</string>
     <string name="expert_mode_universal_all_warning_message">Универсалды патчтар бірге тестіленбеген. Барлығын бірден қосу қақтығыстарға, патчтаудың сәтсіз болуына немесе қосымшаның жабылуына әкелуі мүмкін</string>
+    <string name="expert_mode_recommended">Ұсынылатын патчтар</string>
     <string name="expert_mode_reset_to_default_done">Ұсынылған патчтер қолданылды</string>
+    <string name="expert_mode_selected_count">%2$s из %1$s таңдалды</string>
+    <string name="expert_mode_saved_selection">Сақталған таңдау</string>
     <string name="expert_mode_restore_saved_done">Сақталған таңдау қалпына келтірілді</string>
     <string name="expert_mode_copy_from_bundle_no_patches">Бұл жиынтықта сәйкес келетін патчтар жоқ</string>
     <string name="expert_mode_no_results">Патчтар табылмады</string>
